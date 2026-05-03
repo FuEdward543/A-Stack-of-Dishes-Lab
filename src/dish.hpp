@@ -12,4 +12,4 @@ class Dish {
     std::string get_description() {
       return this->description;
     }
-}
+};
